@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Primeiro
-build_property.ProjectDir = C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Código\Primeiro\Primeiro\
+build_property.RootNamespace = Saida_Dados
+build_property.ProjectDir = C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Código\Saida_Dados\Saida_Dados\
