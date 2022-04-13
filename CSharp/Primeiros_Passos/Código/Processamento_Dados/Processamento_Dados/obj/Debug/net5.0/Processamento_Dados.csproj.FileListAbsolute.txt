@@ -1,0 +1,16 @@
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Código\Processamento_Dados\Processamento_Dados\bin\Debug\net5.0\Processamento_Dados.exe
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Código\Processamento_Dados\Processamento_Dados\bin\Debug\net5.0\Processamento_Dados.deps.json
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Código\Processamento_Dados\Processamento_Dados\bin\Debug\net5.0\Processamento_Dados.runtimeconfig.json
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Código\Processamento_Dados\Processamento_Dados\bin\Debug\net5.0\Processamento_Dados.runtimeconfig.dev.json
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Código\Processamento_Dados\Processamento_Dados\bin\Debug\net5.0\Processamento_Dados.dll
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Código\Processamento_Dados\Processamento_Dados\bin\Debug\net5.0\Processamento_Dados.pdb
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Código\Processamento_Dados\Processamento_Dados\obj\Debug\net5.0\Processamento_Dados.csproj.AssemblyReference.cache
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Código\Processamento_Dados\Processamento_Dados\obj\Debug\net5.0\Processamento_Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Código\Processamento_Dados\Processamento_Dados\obj\Debug\net5.0\Processamento_Dados.AssemblyInfoInputs.cache
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Código\Processamento_Dados\Processamento_Dados\obj\Debug\net5.0\Processamento_Dados.AssemblyInfo.cs
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Código\Processamento_Dados\Processamento_Dados\obj\Debug\net5.0\Processamento_Dados.csproj.CoreCompileInputs.cache
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Código\Processamento_Dados\Processamento_Dados\obj\Debug\net5.0\Processamento_Dados.dll
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Código\Processamento_Dados\Processamento_Dados\obj\Debug\net5.0\refint\Processamento_Dados.dll
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Código\Processamento_Dados\Processamento_Dados\obj\Debug\net5.0\Processamento_Dados.pdb
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Código\Processamento_Dados\Processamento_Dados\obj\Debug\net5.0\Processamento_Dados.genruntimeconfig.cache
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Código\Processamento_Dados\Processamento_Dados\obj\Debug\net5.0\ref\Processamento_Dados.dll
