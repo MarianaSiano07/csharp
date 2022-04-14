@@ -1,0 +1,16 @@
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo\Operacoes_Matematicas\Operacoes_Matematicas\bin\Debug\net5.0\Operacoes_Matematicas.exe
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo\Operacoes_Matematicas\Operacoes_Matematicas\bin\Debug\net5.0\Operacoes_Matematicas.deps.json
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo\Operacoes_Matematicas\Operacoes_Matematicas\bin\Debug\net5.0\Operacoes_Matematicas.runtimeconfig.json
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo\Operacoes_Matematicas\Operacoes_Matematicas\bin\Debug\net5.0\Operacoes_Matematicas.runtimeconfig.dev.json
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo\Operacoes_Matematicas\Operacoes_Matematicas\bin\Debug\net5.0\Operacoes_Matematicas.dll
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo\Operacoes_Matematicas\Operacoes_Matematicas\bin\Debug\net5.0\Operacoes_Matematicas.pdb
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo\Operacoes_Matematicas\Operacoes_Matematicas\obj\Debug\net5.0\Operacoes_Matematicas.csproj.AssemblyReference.cache
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo\Operacoes_Matematicas\Operacoes_Matematicas\obj\Debug\net5.0\Operacoes_Matematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo\Operacoes_Matematicas\Operacoes_Matematicas\obj\Debug\net5.0\Operacoes_Matematicas.AssemblyInfoInputs.cache
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo\Operacoes_Matematicas\Operacoes_Matematicas\obj\Debug\net5.0\Operacoes_Matematicas.AssemblyInfo.cs
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo\Operacoes_Matematicas\Operacoes_Matematicas\obj\Debug\net5.0\Operacoes_Matematicas.csproj.CoreCompileInputs.cache
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo\Operacoes_Matematicas\Operacoes_Matematicas\obj\Debug\net5.0\Operacoes_Matematicas.dll
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo\Operacoes_Matematicas\Operacoes_Matematicas\obj\Debug\net5.0\refint\Operacoes_Matematicas.dll
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo\Operacoes_Matematicas\Operacoes_Matematicas\obj\Debug\net5.0\Operacoes_Matematicas.pdb
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo\Operacoes_Matematicas\Operacoes_Matematicas\obj\Debug\net5.0\Operacoes_Matematicas.genruntimeconfig.cache
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo\Operacoes_Matematicas\Operacoes_Matematicas\obj\Debug\net5.0\ref\Operacoes_Matematicas.dll
