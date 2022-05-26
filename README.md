@@ -2,4 +2,4 @@
 
 # Cursos
 ## Curso 1 - C# Primeiros Passos: Lógica de Programação e Algoritmos
-Lecionado pelo professor Nélio Alves
+Lecionado pelo professor Nélio Alves e está na brach Primeiros-Passos
