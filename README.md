@@ -1,5 +1,6 @@
-# Repositório destinado aos Cursos de C#
+# C# Completo. Programação Orientada a Objetos + Projetos
 
-# Cursos
-## Curso 1 - C# Primeiros Passos: Lógica de Programação e Algoritmos
-Lecionado pelo professor Nélio Alves e está na brach Primeiros-Passos
+Curso da Udemy de CSharp, com o professor Nélio Alves
+
+## Curso na Udemy
+* [C# Completo. Programação Orientada a Objetos + Projetos](https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/learn/lecture/6625198?start=15#overview)
