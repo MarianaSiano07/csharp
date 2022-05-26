@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercicio_Dois/1.0.0": {
+        "runtime": {
+          "Exercicio_Dois.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_Dois/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

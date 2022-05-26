@@ -1,0 +1,16 @@
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Tres\Exercicio_Tres\bin\Debug\net5.0\Exercicio_Tres.exe
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Tres\Exercicio_Tres\bin\Debug\net5.0\Exercicio_Tres.deps.json
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Tres\Exercicio_Tres\bin\Debug\net5.0\Exercicio_Tres.runtimeconfig.json
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Tres\Exercicio_Tres\bin\Debug\net5.0\Exercicio_Tres.runtimeconfig.dev.json
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Tres\Exercicio_Tres\bin\Debug\net5.0\Exercicio_Tres.dll
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Tres\Exercicio_Tres\bin\Debug\net5.0\Exercicio_Tres.pdb
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Tres\Exercicio_Tres\obj\Debug\net5.0\Exercicio_Tres.csproj.AssemblyReference.cache
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Tres\Exercicio_Tres\obj\Debug\net5.0\Exercicio_Tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Tres\Exercicio_Tres\obj\Debug\net5.0\Exercicio_Tres.AssemblyInfoInputs.cache
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Tres\Exercicio_Tres\obj\Debug\net5.0\Exercicio_Tres.AssemblyInfo.cs
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Tres\Exercicio_Tres\obj\Debug\net5.0\Exercicio_Tres.csproj.CoreCompileInputs.cache
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Tres\Exercicio_Tres\obj\Debug\net5.0\Exercicio_Tres.dll
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Tres\Exercicio_Tres\obj\Debug\net5.0\refint\Exercicio_Tres.dll
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Tres\Exercicio_Tres\obj\Debug\net5.0\Exercicio_Tres.pdb
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Tres\Exercicio_Tres\obj\Debug\net5.0\Exercicio_Tres.genruntimeconfig.cache
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Tres\Exercicio_Tres\obj\Debug\net5.0\ref\Exercicio_Tres.dll

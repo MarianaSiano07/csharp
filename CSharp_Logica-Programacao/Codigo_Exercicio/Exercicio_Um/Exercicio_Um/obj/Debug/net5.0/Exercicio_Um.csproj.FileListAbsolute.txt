@@ -1,0 +1,16 @@
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Um\Exercicio_Um\bin\Debug\net5.0\Exercicio_Um.exe
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Um\Exercicio_Um\bin\Debug\net5.0\Exercicio_Um.deps.json
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Um\Exercicio_Um\bin\Debug\net5.0\Exercicio_Um.runtimeconfig.json
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Um\Exercicio_Um\bin\Debug\net5.0\Exercicio_Um.runtimeconfig.dev.json
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Um\Exercicio_Um\bin\Debug\net5.0\Exercicio_Um.dll
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Um\Exercicio_Um\bin\Debug\net5.0\Exercicio_Um.pdb
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Um\Exercicio_Um\obj\Debug\net5.0\Exercicio_Um.csproj.AssemblyReference.cache
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Um\Exercicio_Um\obj\Debug\net5.0\Exercicio_Um.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Um\Exercicio_Um\obj\Debug\net5.0\Exercicio_Um.AssemblyInfoInputs.cache
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Um\Exercicio_Um\obj\Debug\net5.0\Exercicio_Um.AssemblyInfo.cs
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Um\Exercicio_Um\obj\Debug\net5.0\Exercicio_Um.csproj.CoreCompileInputs.cache
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Um\Exercicio_Um\obj\Debug\net5.0\Exercicio_Um.dll
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Um\Exercicio_Um\obj\Debug\net5.0\refint\Exercicio_Um.dll
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Um\Exercicio_Um\obj\Debug\net5.0\Exercicio_Um.pdb
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Um\Exercicio_Um\obj\Debug\net5.0\Exercicio_Um.genruntimeconfig.cache
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Um\Exercicio_Um\obj\Debug\net5.0\ref\Exercicio_Um.dll

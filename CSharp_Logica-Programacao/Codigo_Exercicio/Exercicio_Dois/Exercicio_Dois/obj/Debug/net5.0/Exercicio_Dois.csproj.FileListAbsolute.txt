@@ -1,0 +1,16 @@
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Dois\Exercicio_Dois\obj\Debug\net5.0\Exercicio_Dois.csproj.AssemblyReference.cache
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Dois\Exercicio_Dois\obj\Debug\net5.0\Exercicio_Dois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Dois\Exercicio_Dois\obj\Debug\net5.0\Exercicio_Dois.AssemblyInfoInputs.cache
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Dois\Exercicio_Dois\obj\Debug\net5.0\Exercicio_Dois.AssemblyInfo.cs
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Dois\Exercicio_Dois\obj\Debug\net5.0\Exercicio_Dois.csproj.CoreCompileInputs.cache
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Dois\Exercicio_Dois\bin\Debug\net5.0\Exercicio_Dois.exe
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Dois\Exercicio_Dois\bin\Debug\net5.0\Exercicio_Dois.deps.json
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Dois\Exercicio_Dois\bin\Debug\net5.0\Exercicio_Dois.runtimeconfig.json
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Dois\Exercicio_Dois\bin\Debug\net5.0\Exercicio_Dois.runtimeconfig.dev.json
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Dois\Exercicio_Dois\bin\Debug\net5.0\Exercicio_Dois.dll
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Dois\Exercicio_Dois\bin\Debug\net5.0\Exercicio_Dois.pdb
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Dois\Exercicio_Dois\obj\Debug\net5.0\Exercicio_Dois.dll
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Dois\Exercicio_Dois\obj\Debug\net5.0\refint\Exercicio_Dois.dll
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Dois\Exercicio_Dois\obj\Debug\net5.0\Exercicio_Dois.pdb
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Dois\Exercicio_Dois\obj\Debug\net5.0\Exercicio_Dois.genruntimeconfig.cache
+C:\Users\Supervisor\Downloads\Udemy\GitHub\csharp\CSharp\Primeiros_Passos\Codigo_Exercicio\Exercicio_Dois\Exercicio_Dois\obj\Debug\net5.0\ref\Exercicio_Dois.dll
